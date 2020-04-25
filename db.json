@@ -1,4 +1,6 @@
-[{
+{
+"country": [
+{
   "id": 1,
   "name": "Nantou",
   "color": "Yellow"
@@ -38,4 +40,6 @@
   "id": 10,
   "name": "João Pessoa",
   "color": "Mauv"
-}]
+}
+]
+}
