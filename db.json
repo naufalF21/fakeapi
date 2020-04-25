@@ -1,1 +1,41 @@
-
+[{
+  "id": 1,
+  "name": "Nantou",
+  "color": "Yellow"
+}, {
+  "id": 2,
+  "name": "Ghayl Bā Wazīr",
+  "color": "Fuscia"
+}, {
+  "id": 3,
+  "name": "Madrid",
+  "color": "Maroon"
+}, {
+  "id": 4,
+  "name": "Kertamukti",
+  "color": "Turquoise"
+}, {
+  "id": 5,
+  "name": "Cimuncang",
+  "color": "Goldenrod"
+}, {
+  "id": 6,
+  "name": "Pemba",
+  "color": "Blue"
+}, {
+  "id": 7,
+  "name": "Morón",
+  "color": "Khaki"
+}, {
+  "id": 8,
+  "name": "Novoorsk",
+  "color": "Teal"
+}, {
+  "id": 9,
+  "name": "Oymak",
+  "color": "Yellow"
+}, {
+  "id": 10,
+  "name": "João Pessoa",
+  "color": "Mauv"
+}]
